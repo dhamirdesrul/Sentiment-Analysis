@@ -1,0 +1,17 @@
+ROOT,0,3
+nsubj,3,1
+aux,3,2
+dobj,3,4
+advmod,6,5
+dep,3,6
+case,10,7
+amod,10,8
+amod,10,9
+nmod,6,10
+cc,6,11
+conj,6,12
+det,14,13
+dobj,12,14
+case,16,15
+nmod,14,16
+punct,3,17
